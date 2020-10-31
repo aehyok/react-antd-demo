@@ -16,7 +16,7 @@ const proSettings: DefaultSettings = {
   menu: {
     locale: true,
   },
-  title: 'Ant Design Pro',
+  title: 'EPG可视化',
   pwa: false,
   iconfontUrl: '',
 };
